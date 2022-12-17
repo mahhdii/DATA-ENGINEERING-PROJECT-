@@ -1,8 +1,7 @@
 # Course Project - Citi Bike Trip Histories
 
 ## Overview
-This project was executed as a part of the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) 
-course held by [DataTalks.Club](https://datatalks.club/). The goal of this project is to apply everything we learned
+The goal of this project is to apply everything we learned
 in this course and build an end-to-end data pipeline.
 
 ## Problem description
